@@ -161,3 +161,4 @@ cython_debug/
 forwarder_session.session
 forwarder_session.session-journal
 .my.env
+my.tgcf.config.json
