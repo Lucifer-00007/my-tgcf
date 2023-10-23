@@ -1,100 +1,16 @@
 {
-    "pid": 191,
+    "pid": 0,
     "login": {
-        "API_ID": 25044495,
-        "API_HASH": "5ecdea1b919597ade6314ac03578f622",
+        "API_ID": 0,
+        "API_HASH": "",
         "user_type": 0,
         "phone_no": 91,
         "USERNAME": "",
         "SESSION_STRING": "",
-        "BOT_TOKEN": "6610520704:AAES4dv_mITPfG4oCfiWEKQUifBMxw6HzaQ"
+        "BOT_TOKEN": ""
     },
-    "admins": [
-        "@LuciferWorld7",
-        "@Dev_User7"
-    ],
-    "forwards": [
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001150252224,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001279703513,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001673637788,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001655737904,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001278825571,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001567467479,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001224740727,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        },
-        {
-            "con_name": "",
-            "use_this": true,
-            "source": -1001844404006,
-            "dest": [
-                -1001314939864
-            ],
-            "offset": 0,
-            "end": 0
-        }
-    ],
+    "admins": [],
+    "forwards": [],
     "show_forwarded_from": false,
     "mode": 0,
     "live": {
