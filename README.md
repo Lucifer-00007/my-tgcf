@@ -73,7 +73,10 @@ Make sure you are on a supported environment and have python:3.10 or above, inst
 
   ```shell
   python3 -m venv .venv
+  
   source .venv/bin/activate
+  --or--
+  source .venv/Scripts/activate
   ```
 
 - Install tgcf using `pip`

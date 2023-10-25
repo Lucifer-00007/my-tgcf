@@ -162,3 +162,5 @@ forwarder_session.session
 forwarder_session.session-journal
 .my.env
 my.tgcf.config.json
+logs_n_lines.txt
+logs.txt
