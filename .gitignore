@@ -164,3 +164,4 @@ forwarder_session.session-journal
 my.tgcf.config.json
 logs_n_lines.txt
 logs.txt
+tgcf_bot.session

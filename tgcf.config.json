@@ -1,1 +1,82 @@
-{"pid": 0, "login": {"API_ID": 25044495, "API_HASH": "5ecdea1b919597ade6314ac03578f622", "user_type": 0, "phone_no": 91, "USERNAME": "", "SESSION_STRING": "", "BOT_TOKEN": "6610520704:AAES4dv_mITPfG4oCfiWEKQUifBMxw6HzaQ"}, "admins": ["@LuciferWorld7"], "forwards": [{"con_name": "", "use_this": true, "source": -1001279703513, "dest": [1001314939864], "offset": 0, "end": 0}], "show_forwarded_from": false, "mode": 0, "live": {"sequential_updates": false, "delete_sync": false, "delete_on_edit": ".deleteMe"}, "past": {"delay": 0}, "plugins": {"filter": {"check": false, "users": {"blacklist": [], "whitelist": []}, "files": {"blacklist": [], "whitelist": []}, "text": {"blacklist": [], "whitelist": [], "case_sensitive": false, "regex": false}}, "fmt": {"check": false, "style": "preserve"}, "mark": {"check": false, "image": "image.png", "position": "centre", "frame_rate": 15}, "ocr": {"check": false}, "replace": {"check": false, "text": {}, "text_raw": "", "regex": false}, "caption": {"check": false, "header": "", "footer": ""}}, "bot_messages": {"start": "Hi! I am alive", "bot_help": "For details visit github.com/aahnik/tgcf"}}
+{
+    "pid": 0,
+    "login": {
+        "API_ID": 25044495,
+        "API_HASH": "5ecdea1b919597ade6314ac03578f622",
+        "user_type": 0,
+        "phone_no": 91,
+        "USERNAME": "",
+        "SESSION_STRING": "",
+        "BOT_TOKEN": "6312268635:AAEKmIxYeXpNn0gG2w-g2Q85NsuBsimSyX0"
+    },
+    "admins": [],
+    "forwards": [
+        {
+            "con_name": "",
+            "use_this": true,
+            "source": -1001279703513,
+            "dest": [
+                -1001314939864
+            ],
+            "offset": 0,
+            "end": 0
+        }
+    ],
+    "show_forwarded_from": false,
+    "mode": 0,
+    "live": {
+        "sequential_updates": false,
+        "delete_sync": false,
+        "delete_on_edit": ".deleteMe"
+    },
+    "past": {
+        "delay": 0
+    },
+    "plugins": {
+        "filter": {
+            "check": false,
+            "users": {
+                "blacklist": [],
+                "whitelist": []
+            },
+            "files": {
+                "blacklist": [],
+                "whitelist": []
+            },
+            "text": {
+                "blacklist": [],
+                "whitelist": [],
+                "case_sensitive": false,
+                "regex": false
+            }
+        },
+        "fmt": {
+            "check": false,
+            "style": "preserve"
+        },
+        "mark": {
+            "check": false,
+            "image": "image.png",
+            "position": "centre",
+            "frame_rate": 15
+        },
+        "ocr": {
+            "check": false
+        },
+        "replace": {
+            "check": false,
+            "text": {},
+            "text_raw": "",
+            "regex": false
+        },
+        "caption": {
+            "check": false,
+            "header": "",
+            "footer": ""
+        }
+    },
+    "bot_messages": {
+        "start": "Hi! I am alive",
+        "bot_help": "For details visit github.com/aahnik/tgcf"
+    }
+}
